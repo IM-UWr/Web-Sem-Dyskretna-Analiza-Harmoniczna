@@ -1,6 +1,6 @@
 ---
 tytul: "Testowe: Boolean cumulants and the Bercovici–Pata bijection for operator-valued distributions"
-prelegent: "Natalia Grzebień"
+prelegent: "Mister Test"
 afiliacja: "Uniwersytet Gdański"
 termin: "2026-11-05T10:15"
 sala: "604"
