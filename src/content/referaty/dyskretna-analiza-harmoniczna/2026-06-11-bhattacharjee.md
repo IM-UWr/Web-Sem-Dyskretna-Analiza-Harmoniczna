@@ -2,6 +2,7 @@
 tytul: "Crystallization and K-theoretical aspects of the quantum twistor bundle"
 prelegent: "Suvrajit Bhattacharjee"
 afiliacja: "Uniwersytet w Białymstoku"
+afiliacja_en: "University of Białystok"
 termin: "2026-06-11T10:15"
 sala: "604"
 opublikowany: true

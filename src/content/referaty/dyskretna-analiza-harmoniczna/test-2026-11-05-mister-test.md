@@ -2,6 +2,7 @@
 tytul: "Testowe: Boolean cumulants and the Bercovici–Pata bijection for operator-valued distributions"
 prelegent: "Mister Test"
 afiliacja: "Uniwersytet Test"
+afiliacja_en: "Test University"
 termin: "2026-11-05T10:15"
 sala: "604"
 opublikowany: true
