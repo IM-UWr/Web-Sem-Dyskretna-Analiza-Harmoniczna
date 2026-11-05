@@ -1,5 +1,6 @@
 ---
 tytul: "Kwantowe grafy Knesera"
+jezyk: pl
 prelegent: "Igor Chełstowski"
 afiliacja: "Uniwersytet Warszawski"
 afiliacja_en: "University of Warsaw"
