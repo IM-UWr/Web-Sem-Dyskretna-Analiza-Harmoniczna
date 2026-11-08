@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Kwantowe grafy Knesera"
 jezyk: pl
 prelegent: "Igor Chełstowski"

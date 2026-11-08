@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 nazwa: "Dyskretna analiza harmoniczna i niekomutatywna probabilistyka"
 nazwa_en: "Discrete Harmonic Analysis and Noncommutative Probability"
 prowadzacy:
