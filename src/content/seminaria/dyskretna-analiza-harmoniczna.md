@@ -1,9 +1,9 @@
 ---
 nazwa: "Dyskretna analiza harmoniczna i niekomutatywna probabilistyka"
 nazwa_en: "Discrete Harmonic Analysis and Noncommutative Probability"
-prowadzacy:
-  - "Ryszard Szwarc"
-  - "Marek Bożejko"
+prowadzacy_ze_spisu:
+  - "_cms/pracownicy/ryszard-szwarc.yml"
+  - "_cms/pracownicy/marek-bozejko.yml"
 kontakt: "mariusz.tobolski@math.uni.wroc.pl"
 zaklad: "analiza-matematyczna"
 aktywne: true
